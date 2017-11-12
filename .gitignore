@@ -1,0 +1,9 @@
+
+build/*
+*.qm
+*.Debug
+*.Release
+compile-coin.sh
+compile-coin-unix.sh
+.qmake.stash
+aura-qt_plugin_import.cpp
